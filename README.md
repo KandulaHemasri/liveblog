@@ -50,5 +50,3 @@ This project demonstrates real-world backend development concepts including data
 - **Testing:** Postman  
 
 ---
-
-## 📂 Project Structure
