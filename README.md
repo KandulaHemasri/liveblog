@@ -4,6 +4,9 @@ A fully functional backend application for a live blogging platform built using 
 This project demonstrates real-world backend development concepts including database integration, authentication, relationships, and aggregation.
 
 ---
+## Testing in postman use this link
+- for posts -- https://liveblog-1.onrender.com/api/posts
+- for users -- https://liveblog-1.onrender.com/api/users
 
 ## 🚀 Features
 
